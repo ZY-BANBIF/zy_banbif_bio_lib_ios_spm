@@ -62,8 +62,8 @@ let package = Package(
         // XCFramework BIO alojado en Artifactory
         .binaryTarget(
             name: "zy_banbif_bio_lib_ios_spm",
-            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/banbif/biolib/1.0.0/zy_banbif_bio_lib_ios_spm.xcframework.zip",
-            checksum: "109fa16c0663f22a7c9489f8ab085aae037db9753b06bd8e5270981b4d462820"
+            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/banbif/biolib/1.0.1/zy_banbif_bio_lib_ios_spm.xcframework.zip",
+            checksum: "279849d3a366415ba3fbf13f681cbb4c4ab8d5260ee20b90b2ffd4e3fc29b144"
         ),
 
         // Target intermediario
